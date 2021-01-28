@@ -15,3 +15,26 @@ To process your corpus, you need to follow [this notebook](https://github.com/ha
 All datasets and trained models are available at <http://212.129.44.40/DeepStyle/>.
 
 The TFIDF computation with dichotomic search is available in a dependency. This part of the project is not yet pushed to keep the repo anonymous.
+
+## Related work on "Representation learning of writing style"
+
+[Paper](https://www.aclweb.org/anthology/2020.wnut-1.30.pdf)
+[Repository](https://github.com/hayj/DeepStyle)
+
+## Citation
+
+ > Julien Hay, Bich-Liên Doan, Fabrice Popineau, et Ouassim Ait Elhara. Filtering a reference corpus to generalize stylometric representations. In Proceedings of the 12th Conference on Knowledge Discovery and Information Retrieval (KDIR 2020), November 2020.
+
+Bibtex format:
+
+	@inproceedings{hay-2020-authfilt,
+	    title = "Filtering a reference corpus to generalize stylometric representations",
+	    author = "Hay, Julien and
+	      Doan, Bich-Li\^{e}n and
+	      Popineau, Fabrice and
+	      Ait Elhara, Ouassim",
+	    booktitle = "Proceedings of the 12th Conference on Knowledge Discovery and Information Retrieval (KDIR 2020)",
+	    month = nov,
+	    year = "2020"
+	}
+
