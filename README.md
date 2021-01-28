@@ -18,8 +18,8 @@ The TFIDF computation with dichotomic search is available in a dependency. This 
 
 ## Related work on "Representation learning of writing style"
 
-[Paper](https://www.aclweb.org/anthology/2020.wnut-1.30.pdf)
-[Repository](https://github.com/hayj/DeepStyle)
+ * [Paper](https://www.aclweb.org/anthology/2020.wnut-1.30.pdf)
+ * [Repository](https://github.com/hayj/DeepStyle)
 
 ## Citation
 
